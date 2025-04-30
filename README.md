@@ -1,4 +1,4 @@
-# Signal Fingerprinting Application
+# Song Fingerprinting Application
 
 ---
 
